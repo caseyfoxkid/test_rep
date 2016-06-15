@@ -1,1 +1,2 @@
-Hello World!
+script ("Hello World!");
+script ("Hello everybody");

@@ -3,4 +3,6 @@ script ("Hello everybody");
 
 script ("Hello myself");
 
+script ("Hello my friends");
+
 script ("Hello my family");
